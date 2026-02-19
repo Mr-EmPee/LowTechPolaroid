@@ -1,0 +1,20 @@
+{
+    "Group": "MrEmPee",
+    "Name": "LowTechPolaroid",
+    "Version": "1.0.0-SNAPSHOT",
+    "Description": "A really beautiful polaroid",
+    "Authors": [
+        {
+            "Name": "Mr. EmPee",
+            "Email": "empee@null.com",
+            "Url": "https://github.com/Mr-EmPee"
+        }
+    ],
+    "Website": "https://github.com/Mr-EmPee/LowTechPolaroid",
+    "DisabledByDefault": false,
+    "IncludesAssetPack": false,
+    "Dependencies": {},
+    "OptionalDependencies": {},
+    "ServerVersion": "2026.02.19-1a311a592",
+    "Main": "me.empee.polaroid.PolaroidPlugin"
+}
